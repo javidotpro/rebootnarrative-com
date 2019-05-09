@@ -1,16 +1,16 @@
 {
-    "name": "Javielico.com Ghost Blog",
-    "description": "Javi's blog",
-    "demo": "https://javielico.com",
-    "version": "1.1.6",
+    "name": "Reboot Narrative",
+    "description": "Reboot Narrative - Main theme",
+    "demo": "https://rebootnarrative.com",
+    "version": "1.1.7",
     "license": "GNU General Public License, Version 2",
     "engines": {
         "ghost": ">=1.0.0"
     },
     "author": {
         "name": "Javier Sanchez",
-        "email": "hola@javi.pro",
-        "url": "https://javielico.com"
+        "email": "iam@javiersanchez.net",
+        "url": "https://www.javi.pro"
     },
     "gpm": {
         "type": "theme",
